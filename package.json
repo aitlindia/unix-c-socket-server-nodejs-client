@@ -1,0 +1,16 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "Nodejs test application",
+  "main": "app1.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mqtt": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr K Alam",
+  "license": "ISC"
+}
